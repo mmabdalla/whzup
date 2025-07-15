@@ -26,137 +26,137 @@ The AI agent should understand and implement the following key features, focusin
 
 A. User Profiles & Identity (Facebook/Instagram/X Inspired):
 
-Unified Profile: A single user profile that encompasses all aspects:
-
-Profile Picture/Avatar: Customizable, with options for animated avatars.
-
-Bio/About Section: Rich text support, links, and hashtags.
-
-Contact Info: Optional, privacy-controlled.
-
-Followers/Following Model: Similar to Instagram/X, allowing users to follow public profiles and connect as "friends" with mutual consent.
-
-Public/Private Profile Options: Granular control over who can see posts, stories, and send messages.
-
-Badges/Achievements (Optional): Gamification elements for engagement.
-
-Activity Log: A unified view of user's posts, shared content, and interactions.
-
-Discovery: Mechanisms to find and connect with friends, family, and public figures (e.g., search, suggestions based on contacts, interests).
+  Unified Profile: A single user profile that encompasses all aspects:
+  
+  Profile Picture/Avatar: Customizable, with options for animated avatars.
+  
+  Bio/About Section: Rich text support, links, and hashtags.
+  
+  Contact Info: Optional, privacy-controlled.
+  
+  Followers/Following Model: Similar to Instagram/X, allowing users to follow public profiles and connect as "friends" with mutual consent.
+  
+  Public/Private Profile Options: Granular control over who can see posts, stories, and send messages.
+  
+  Badges/Achievements (Optional): Gamification elements for engagement.
+  
+  Activity Log: A unified view of user's posts, shared content, and interactions.
+  
+  Discovery: Mechanisms to find and connect with friends, family, and public figures (e.g., search, suggestions based on contacts, interests).
 
 B. Feeds & Content Discovery (Facebook/Instagram/X Inspired):
 
-Personalized Home Feed: A single, algorithmically-driven feed that combines:
-
-Posts: Text, photos, videos (short & long-form), links, polls, similar to Facebook/X.
-
-Stories: Ephemeral content (photos/videos) with filters, stickers, text, and drawing tools, similar to Instagram/Facebook Stories.
-
-Reels/Short Videos: A dedicated section for short, engaging vertical videos, similar to Instagram Reels/TikTok.
-
-Live Streams: Ability to initiate and watch live video broadcasts.
+  Personalized Home Feed: A single, algorithmically-driven feed that combines:
+  
+  Posts: Text, photos, videos (short & long-form), links, polls, similar to Facebook/X.
+  
+  Stories: Ephemeral content (photos/videos) with filters, stickers, text, and drawing tools, similar to Instagram/Facebook Stories.
+  
+  Reels/Short Videos: A dedicated section for short, engaging vertical videos, similar to Instagram Reels/TikTok.
+  
+  Live Streams: Ability to initiate and watch live video broadcasts.
 
 Content Creation Tools:
 
-Intuitive Post Composer: Easy access to text, photo, video, and live stream options.
-
-Advanced Photo/Video Editor: Built-in tools for cropping, filters, adjustments, text overlays, and music for Stories and Reels.
-
-Polls, Questions, Quizzes: Interactive elements for posts.
+  Intuitive Post Composer: Easy access to text, photo, video, and live stream options.
+  
+  Advanced Photo/Video Editor: Built-in tools for cropping, filters, adjustments, text overlays, and music for Stories and Reels.
+  
+  Polls, Questions, Quizzes: Interactive elements for posts.
 
 Engagement:
 
-Reactions: A rich set of reactions (e.g., like, love, laugh, etc.) for all content types.
-
-Comments: Threaded comments with rich media support (photos, GIFs, voice notes).
-
-Sharing: Easy options to share posts to stories, direct messages, or external platforms.
-
-Repost/Quote: Ability to repost content with or without additional commentary (X-like functionality).
-
-Exploration/Discovery Tab: A dedicated section for trending topics, popular content, suggested profiles, and interests (similar to Instagram's Explore or X's Trends).
-
-Hashtag & Topic Following: Users can follow specific hashtags or topics to see related content.
+  Reactions: A rich set of reactions (e.g., like, love, laugh, etc.) for all content types.
+  
+  Comments: Threaded comments with rich media support (photos, GIFs, voice notes).
+  
+  Sharing: Easy options to share posts to stories, direct messages, or external platforms.
+  
+  Repost/Quote: Ability to repost content with or without additional commentary (X-like functionality).
+  
+  Exploration/Discovery Tab: A dedicated section for trending topics, popular content, suggested profiles, and interests (similar to Instagram's Explore or X's Trends).
+  
+  Hashtag & Topic Following: Users can follow specific hashtags or topics to see related content.
 
 C. Messaging & Communication (WhatsApp/Facebook Messenger Inspired):
 
-Unified Inbox: A single, streamlined inbox for all messages.
-
+  Unified Inbox: A single, streamlined inbox for all messages.
+  
 One-to-One Chat:
-
-Rich Text Messaging: Standard text, emojis, GIFs.
-
-Media Sharing: Photos, videos, documents, audio messages, contact cards, location sharing.
-
-Voice & Video Calls: High-quality, reliable individual voice and video calls.
-
-Ephemeral Messages: Optional disappearing messages (like WhatsApp's view once).
-
-Reactions to Messages: React to individual messages.
-
-Reply to Specific Messages: Threaded replies within chats.
+  
+  Rich Text Messaging: Standard text, emojis, GIFs.
+  
+  Media Sharing: Photos, videos, documents, audio messages, contact cards, location sharing.
+  
+  Voice & Video Calls: High-quality, reliable individual voice and video calls.
+  
+  Ephemeral Messages: Optional disappearing messages (like WhatsApp's view once).
+  
+  Reactions to Messages: React to individual messages.
+  
+  Reply to Specific Messages: Threaded replies within chats.
 
 Group Chat:
 
-Robust Group Management: Admin controls, participant lists, group info.
-
-Large Group Support: Ability to handle groups with many members.
-
-Group Voice & Video Calls: Conference calling capabilities.
-
-Broadcast Lists: Send messages to multiple contacts simultaneously without creating a group.
-
-Status Updates (WhatsApp Status Inspired): Ephemeral text, photo, or video updates visible to selected contacts for 24 hours. Integrated directly into the messaging section or a dedicated tab.
-
-Direct Messaging from Feeds: Seamlessly transition from viewing a post/story to directly messaging the creator or sharing it with a contact.
-
-End-to-End Encryption: All one-to-one and group communications must be end-to-end encrypted by default.
+  Robust Group Management: Admin controls, participant lists, group info.
+  
+  Large Group Support: Ability to handle groups with many members.
+  
+  Group Voice & Video Calls: Conference calling capabilities.
+  
+  Broadcast Lists: Send messages to multiple contacts simultaneously without creating a group.
+  
+  Status Updates (WhatsApp Status Inspired): Ephemeral text, photo, or video updates visible to selected contacts for 24 hours. Integrated directly into the messaging section or a dedicated tab.
+  
+  Direct Messaging from Feeds: Seamlessly transition from viewing a post/story to directly messaging the creator or sharing it with a contact.
+  
+  End-to-End Encryption: All one-to-one and group communications must be end-to-end encrypted by default.
 
 D. Notifications & Alerts:
 
-Centralized Notification Hub: A single place to view all notifications (new messages, likes, comments, mentions, new followers, live streams, etc.).
-
-Granular Notification Settings: Users can customize notification types, sounds, and vibrations.
-
-In-App Alerts: Subtle visual cues for new activity.
+  Centralized Notification Hub: A single place to view all notifications (new messages, likes, comments, mentions, new followers, live streams, etc.).
+  
+  Granular Notification Settings: Users can customize notification types, sounds, and vibrations.
+  
+  In-App Alerts: Subtle visual cues for new activity.
 
 E. Search Functionality:
 
-Universal Search Bar: Ability to search for:
-
-Users/Profiles
-
-Posts/Content (by keywords, hashtags)
-
-Messages (within chats)
-
-Groups
-
-Trending topics
+  Universal Search Bar: Ability to search for:
+  
+  Users/Profiles
+  
+  Posts/Content (by keywords, hashtags)
+  
+  Messages (within chats)
+  
+  Groups
+  
+  Trending topics
 
 F. Settings & Privacy:
 
-Comprehensive Privacy Controls:
-
-Who can see my profile? (Public, Friends, Custom)
-
-Who can see my posts/stories?
-
-Who can send me messages/friend requests?
-
-Location sharing controls.
-
-Activity status visibility.
-
-Blocking and muting options.
-
-Account Management: Profile editing, password changes, two-factor authentication.
-
-Data Management: Options to download user data.
-
-Notification Preferences: As mentioned above.
-
-App Theme: Light/Dark mode, potentially custom accent colors.
+  Comprehensive Privacy Controls:
+  
+  Who can see my profile? (Public, Friends, Custom)
+  
+  Who can see my posts/stories?
+  
+  Who can send me messages/friend requests?
+  
+  Location sharing controls.
+  
+  Activity status visibility.
+  
+  Blocking and muting options.
+  
+  Account Management: Profile editing, password changes, two-factor authentication.
+  
+  Data Management: Options to download user data.
+  
+  Notification Preferences: As mentioned above.
+  
+  App Theme: Light/Dark mode, potentially custom accent colors.
 
 IV. Technical Requirements & Considerations:
 
